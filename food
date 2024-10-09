@@ -1,0 +1,80 @@
+!DOCTYPE html>
+<html lang="en">
+    <meta charset="utf-8">
+    <head>
+    
+    <title>Health Lifestyle</title>
+        <meta name="viewport" content="witdh=device-width, inital-scale=1.o">
+        
+        
+        
+       <link rel="stylesheet" href="css/home.css">
+        
+         
+    
+    </head>
+    
+    <body>
+        
+     <div class="grid-container">
+        <div class="header">
+        <h1>Healthy Lifestyle</h1>
+            
+            <h2>Lets get healthy and fit together</h2>
+            
+            <img src="images/healthy%20poster.png">
+            
+            <nav class="nav">
+                <ul>
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="lifestyle.html">Lifestyle</a></li>
+                    <li><a href="#">Healthy food</a></li>
+                    <li><a href="#">Sports</a></li>
+                    <li><a href="#">Contact us</a></li>
+                </ul>
+            </nav>
+        </div>
+        
+    
+            
+            <div class="para1">
+                <h1>Healthy Lifestyles</h1>
+                
+                <p>Having a healthy lifestyle will lead to more happiness and all around better feel in life. This includes making healthy choices, finding time to exercise and eat the correct food for you to feel good and healthy, but it isnt easy as you must nbe ready to give up on old habits that you are so used to doing to make the switch to becoming 10 times better then wwhat you are right now.</p>
+                
+                <p>There are many ways to achieve this, down below is a few of the many ways to do this.</p>
+                
+                <h3>Steps you can take</h3>
+                <nav class="list">
+                    <ul>
+                        <li>Be more physically active, play sports, go to the gy, go on runs, there are a multitude of ways to get active.</li>
+                        <li>Eat weel balanced meals, instead of ordering takeaways every other night, take the time to learn ho to cook and make something for yourself at home.</li>
+                        <li>Dont smoke, and if you do try to quit as soon as you can, smoking does no good then the anount it can inflinct on your body.</li>
+                        <li>Cut down on alcohol, try not consume alot of alcoholic beverages and instead try to drink more water</li>
+                        <li>
+                            Fitness Challenges and Goals, Propose fitness challenges or goal-setting strategies to motivate visitors to incorporate regular exercise into their routines.</li>
+                        <li>Mental Health and Stress Management, Understand the link between physical health and mental well-being. Explore tips and resources for managing stress, practicing mindfulness, and maintaining a healthy work-life balance.</li>
+                    </ul>
+                </nav>
+            
+            </div>
+            
+            <div class="para2">
+                <h2>Our social media pages</h2>
+                <p>Down below are links and images to our scial media page if you would like to get in contact with us or share your journey from the very beginning unitl the end.</p>
+                
+                <a href="https://www.instagram.com/healthy_lifestyleadvice/"><img src="images/intsa.png"></a>
+                
+                <a href="https://www.facebook.com/groups/874199370077416/"><img src="images/fb.png"></a>
+                
+                <a href="https://www.youtube.com/@everymindmatters1557"><img src="images/yt.jpg"></a>
+              </div>
+        
+        
+        
+        <footer class="footer">
+            <p>&copy; Healthy Lifestyle and Living.</p>
+        </footer>
+        </div>
+    </body>
+</html>
